@@ -306,3 +306,67 @@ Zone: Temple of Sethraliss
 270605   Summon Demolisher --大怪出現？
 269266   Slam --震攝波
 269366   Repair --準備開火？
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+;    Zone: Waycrest Manor
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+265407	Dinner Bell
+271174	Retch
+264456	Tracking Explosive
+263943	Etch
+263905	Marking Cleave
+264525	Shrapnel Trap
+264520	Severing Serpent
+265759	Splinter Spike
+265760	Thorned Barrage
+265741	Drain Soul Essence
+264050	Infected Thorn
+264038	Uproot
+264556	Tearing Strike
+264150	Shatter
+265352	Toad Blight
+265346	Pallid Glare
+263959	Soul Volley
+263961	Warding Candles
+265368	Spirited Defense
+264396	Spectral Talisman
+264390	Spellbind
+264105y	Runic Mark on you
+265876	Ruinous Volley
+265880y	Dread Mark on you
+265881	Decaying Touch
+
+; Boss: Heartsbane Triad
+260741	Jagged Nettles
+260703y	Unstable Runic Mark on you
+260907	Soul Manipulation
+260805	Focusing Iris
+260773	Dire Ritual
+
+; Boss: Soulbound Goliath
+260508	Crush
+260512	Soul Harvest
+260551y	Soul Thorns on you
+260541	Burning Brush
+260569	Wildfire
+
+; Boss: Raal the Gluttonous
+264734	Consume All
+264931	Call Servant
+265002	Consume Servants
+264923	Tenderize
+264694	Rotten Expulsion
+
+; Boss: Lord and Lady Waycrest
+268306	Discordant Cadenza
+261438	Wasting Strike
+261440y	Virulent Pathogen on you
+261447	Putrid Vitality
+
+; Boss: Gorak Tul
+266181	Dread Essence
+266266	Summon Deathtouched Slaver
+266225	Darkened Lightning
+266198	Alchemical Fire
