@@ -1,0 +1,308 @@
+Zone: Temple of Sethraliss
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+
+; Boss: Adderis and Aspix
+263246   Lightning Shield 闪电之盾 --注意反伤/注意停手
+263371   Conduction 导电 --跑开人群
+263573   Cyclone Strike 飓风打击 --震慑波
+
+; Boss: Merektha
+263912   Noxious Breath 毒性吐息 --注意脚下
+263927   Toxic Pool 毒性之池 --快躲开
+263914   Blinding Sand 盲目之沙 --快转身
+264239   Hatch 孵化 --准备小怪
+264206   Burrow 钻地 --注意脚下
+263958   A Knot of Snakes 缠绕蛇群 --救命啊 or 快救人
+
+; Boss: Galvazzt
+266923   Electroshock 充电 --注意层数
+266512   Consume Charge 放电 --准备aoe
+
+; Boss: Avatar of Sethraliss
+269688   Rain of Toads 蟾蜍雨 --准备小怪
+273677   Taint 污染 --不能治疗boss，不用特别提示
+268024   Pulse 脉冲 --准备aoe
+269686   Plague 瘟疫 --帮忙驱散
+
+
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Tol Dagor
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+258079   Massive Chomp 巨口嗜咬，给个debuff --注意自保？？
+258128   Debilitating Shout 衰弱怒吼 --快打断
+258153   Watery Dome 流水护甲 --帮忙驱散
+258634   Fuselighter 爆燃 --不知道
+258313   Handcuff 手铐 --快打断
+258864   Suppression Fire 火力压制 --躲开正面
+258917   Righteous Flames 正义烈焰，烈焰横扫，迷惑目标 --注意脚下？？
+258935   Inner Flames 心灵之火 --快驱散
+
+; Boss: The Sand Queen
+257092   Sand Trap 流沙陷阱 --注意脚下
+257495   Sandstorm 沙尘暴 --准备aoe
+257608   Upheaval 颠覆之击 --注意分散
+257609   Enrage 激怒 --激怒
+
+; Boss: Jes Howlis
+257785   Flashing Daggers 闪光飞刃 --快找掩体
+257777   Crippling Shiv 断筋剃刀 --帮忙驱散
+257791   Howling Fear 咆哮恐惧 --快打断
+257793   Smoke Powder 烟雾弹 
+257827   Motivating Cry 振奋呐喊 --快打断
+
+; Boss: Knight Captain Valyri
+256970   Ignition 点火 --注意脚下
+256955   Cinderflame 炉渣之焰 --震慑波
+257028   Fuselighter 点火器 --目标是你
+
+; Boss: Overseer Korgus
+256198   Azerite Rounds: Incendiary 艾泽里特炎爆弹
+256199   Azerite Rounds: Blast 艾泽里特爆破弹 --小心击飞
+256083   Cross Ignition 交叉点火 --准备aoe
+256101y   Explosive Burst on you 爆炸点你 --注意分散
+256038   Deadeye 致命狙击 --帮忙挡线
+263345   Massive Blast 巨力冲击 --震慑波
+
+
+; Zone: Atal'Dazar
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+255041   Terrifying Screech --快打斷
+255567   Frenzied Charge --衝鋒快躲
+253721   Bulwark of Juju --拉開小怪
+252781y   Unstable Hex on you --跑開人群
+256849   Dino Might --快打斷
+260666   Transfusion --注意踩圈
+252687   Venomfang Strike --幫忙驅散
+
+; Boss: Priestess Alun'za
+255558   Tainted Blood
+255577   Transfusion --注意踩圈
+255579   Gilded Claws --驅散BOSS
+255582   Molten Gold
+258709   Corrupted Gold
+
+; Boss: Vol'kaal
+250258   Toxic Leap --快躲開
+259572   Noxious Stench
+250241   Rapid Decay --2階段準備
+250585   Toxic Pool --快躲開
+
+; Boss: Rezan
+255371   Terrifying Visage --快找掩體
+257407y   Pursuit on you --目標是你
+255434   Serrated Teeth --快打BOSS
+
+; Boss: Yazma
+249923y   Soulrend on you --跑開人群
+250096   Wracking Pain --幫忙驅散
+250050   Echoes of Shadra --注意腳下
+250036   Shadowy Remains --快躲開
+249919   Skewer --注意減傷
+
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Freehold
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+257272   Vile Bombardment
+257426   Brutal Backhand --躲開正面
+257397   Healing Balm --快打斷
+258323   Infected Wound --幫忙驅散
+258672   Azerite Grenade --快躲開
+257437   Poisoning Strike
+274400y   Duelist Dash on you --離開人群
+258777   Sea Spout --快打斷
+272402y   Ricocheting Throw on you --注意分散
+257739   Blind Rage
+257732   Shattering Bellow --停止施法
+274507   Slippery Suds
+274383   Rat Traps --注意腳下
+257756   Going Bananas --快跑
+257775   Plague Step --幫忙驅散
+274555   Scabrous Bite
+258181   Boulder Throw --快躲開
+258199   Ground Shatter --快跑
+257829   Greasy
+257904   Shell Bounce --注意腳下
+257870   Blade Barrage
+257899   Painful Motivation --快打斷
+257908   Oiled Blade --幫忙驅散
+257736   Thundering Squal --快打斷
+
+; Boss: Skycap'n Kragg
+255952   Charge --衝鋒快躲
+256106   Azerite Powder Shot --震攝波
+256060   Revitalizing Brew --快打斷
+256016   Vile Coating --快躲開
+
+; Boss: Council o' Captains
+258338   Blackout Barrel --快轉火
+256589   Barrel Smash --快跑
+258381   Grape Shot --危險危險
+
+; Boss: Ring of Booty
+256405   Sharknado --快跑
+256358   Shark Toss --快躲開
+256489   Rearm --遠離連線
+
+; Boss: Harlan Sweete
+257278   Swiftwind Saber --注意衝擊波
+257305y   Cannon Barrage on you --快跑
+257316   Avast, ye!
+257314y   Black Powder Bomb on you --快跑
+
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Underrot
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+265568y   Dark Omen on you --5碼分散
+265089   Dark Reconstitution --快打斷
+265540   Rotten Bile --震攝波
+265019   Savage Cleave --震攝波
+265081   War cry --幫忙驅散
+265687   Noxious Poison
+266105   Rampant Growth
+266107   Thirst For Blood --快跑
+265668   Wave of Decay
+272183   Raise Dead --快打斷
+266209   Wicked Frenzy --快打斷
+265487   Shadow Bolt Volley
+265433   Withering Curse --快打斷
+265523   Summon Spirit Drain Totem --圖騰快打
+272592   Abyssal Reach --快躲開
+272609   Maddening Gaze --震攝波
+
+; Boss: Elder Leaxa
+260879   Blood Bolt --快打斷
+260894   Creeping Rot --注意衝擊波
+264603   Blood Mirror --小怪快打
+264757   Sanguine Feast --注意腳下
+
+; Boss: Cragmaw the Infested
+260292   Charge --衝鋒快躲
+260793   Indigestion --準備吐息
+260333   Tantrum --準備AOE
+
+; Boss: Sporecaller Zancha
+259732   Festering Harvest --準備特殊技能
+259830   Boundless Rot
+272457   Shockwave --震攝波
+259718y   Upheaval on you --快跑位
+273285   Volatile Pods --注意腳下
+
+; Boss: Unbound Abomination
+269301   Putrid Blood
+269843   Vile Expulsion --注意衝擊波
+269310y   Cleansing Light on you --集合分攤 或 找人靠近
+
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Kings' Rest
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+
+; Boss: The Golden Serpent
+265773y   Spit Gold on you --跑開人群 或 快靠邊站
+265923   Lucre's Call --擊殺小怪
+265781   Serpentine Gust --小心擊飛
+265910   Tail Thrash --注意減傷
+
+; Boss: Mchimba the Embalmer
+267639   Burn Corruption --快跑
+267618   Drain Fluids --刷滿血量
+267702   Entomb --準備救人
+
+; Boss: The Council of Tribes
+267273   Poison Nova --快打斷
+267060   Call of the Elements --快轉火
+266206   Whirling Axes --注意腳下
+266231   Severing Axe
+266951y   Barrel Through on you --目標是你
+266237   Debilitating Backhand --注意減傷(坦克)
+
+; Boss: Dazar, The First King
+268586   Blade Combo --注意減傷(坦克)
+268932y   Quaking Leap on you --離開人群
+268403   Gale Slash --快躲開
+269231   Hunting Leap --躲開正面
+269369   Deathly Roar --恐懼準備
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Shrine of the Storm
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+
+; Boss: Aqu'sirr
+265001   Sea Blast
+264560   Choking Brine --注意腳下
+264101   Surging Rush --衝鋒快躲
+264166   Undertow --保持移動
+264903   Erupting Waters --階段轉換
+
+; Boss: Tidesage Coucil
+267891   Swiftness Ward --注意踩圈
+267818   Slicing Blast --快打斷
+267905   Reinforcing Ward --快找盾牌
+267899   Hindering Cleave --躲開正面
+
+; Boss: Lord Stormsong
+268347   Void Bolt --快打斷
+269097   Waken the Void --注意寶珠
+269131   Ancient Mindbender --注意心控
+
+; Boss: Vol'zith the Whisperer
+267037   Whispers of Power --注意血量？
+269399   Yawning Gate --快跑
+267385   Tentacle Slam --注意腳下
+267360   Grasp of the Sunken City --階段轉換
+
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+; Zone: Siege of Boralus
+; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
+
+; Boss: Trash
+
+; Boss: Chopper Redhook
+257459   On the Hook --保持移動
+257348y   Meat Hook on you --目標是你
+257326   Gore Crash --注意腳下
+257585   Cannon Barrage --注意腳下
+273721   Heavy Ordnance
+
+; Boss: Sergeant Bainbridge
+260954   Iron Gaze --快跑
+261428   Hangman's Noose --快跑
+260924   Steel Tempest --快躲開
+277965   Heavy Ordnance
+
+; Boss: Dread Captain Lockwood
+272471   Evasive --減速BOSS？
+269029   Clear the Deck --震攝波
+268752   Withdraw --階段轉換
+268230   Crimson Swipe --躲開正面
+268260   Broadside --震攝波
+268963   Unstable Ordnance --使用物品
+
+; Boss: Hadal Darkfathom
+261563   Crashing Tide --躲開正面
+257882   Break Water --注意腳下
+276068   Tidal Surge --快找掩體
+
+; Boss: Viq'Goth
+275014y   Putrid Waters on you --5碼分散
+270185   Call of the Deep --注意腳下
+270605   Summon Demolisher --大怪出現？
+269266   Slam --震攝波
+269366   Repair --準備開火？
