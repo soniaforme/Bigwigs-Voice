@@ -1,0 +1,97 @@
+; -?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?
+; Zone: Uldir, Halls of Control
+; -?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?
+
+; Boss: Trash
+277047y Corrupting Gaze on you --runout：跑開人群
+276540 Blood Shield --helpkick：幫忙打斷 或 kickcast：快打斷
+
+; Boss: Taloc the Corrupted
+271224y Plasma Discharge on you --movesoon：快跑位 或leavecenter：離開中場
+270290 Blood Storm --watchstep：注意腳下
+271296 Cudgel of Gore --justrun：快跑 或 自訂語音：遠離衝擊
+271728 Retrieve Cudgel --chargemove：衝鋒快躲
+271895 Sanguine Static --carefly：小心擊飛
+271965 Powered Down --phasechange：階段轉換
+275270 Fixate --runout：跑開人群
+275432 Uldir Defensive Beam --watchwave：注意衝擊波
+275189y：快靠邊站
+275205y：集合分擔
+
+; Boss: MOTHER
+268198 Clinging Corruption --kickcast：快打斷
+274205 Depleted Energy --自訂語音：Rush Boss
+269051 Cleansing Purge --自訂語音：注意能量
+267787 Sundering Scalpel --behindboss：到王背後(DBM新語音) 或 自訂語音：躲開正面
+267795 Purifying Flame --watchstep：注意腳下
+267878 Wind Tunnel --keepmove：保持移動
+268253 Surgical Beam --justrun：快跑 或自訂語音：注意射線
+
+; Boss: Fetid Devourer
+262277 Thrashing Terror --defensive：注意減傷(坦) tankheal：注意刷坦(補) BW沒有針對角色職責分開設置語音
+262292 Rotting Regurgitation --stilldanger：危險危險 或 behindboss：到王背後 或 自訂語音：躲開正面
+262288 Shockwave Stomp --carefly：小心擊飛
+262313 Malodorous Miasma --range5：5碼分散(史詩難度) 
+262314 Putrid Paroxysm --scatter：快分散
+262364 Enticing Essence --mobkill：擊殺小怪
+262378 Fetid Frenzy --enrage：激怒 或 自訂語音：Rush Boss
+
+; Boss: Zek'voz, Herald of N'zoth
+265530 Surging Darkness --watchstep：注意腳下
+265231 Void Lash --自訂語音：躲開正面 或 behindboss：到王背後
+265248 Shatter --defensive：注意減傷(坦)
+264382 Eye Beam --scattersoon：注意分散
+-18390 Qiraji Warrior
+265360 Roiling Deceit --leavecenter：離開中場 或 runtoedge：快靠邊站
+-18397 Anub'ar Voidweaver
+267180 Void Bolt --kickcast：快打斷
+267239 Orb of Corruption --161612：準備接球
+265662 Corruptor's Pact --fearsoon：恐懼準備 或 helpdispel：幫忙驅散
+
+; Boss: Vectis
+265178 Evolving Affliction --攻略找不到資訊
+267242 Contagion --aesoon：AOE準備
+265212y Gestate on you --mobsoon：小怪準備
+265217 Liquefy --runaway：快躲開
+266459 Pathogen Bomb --stepring：注意踩圈
+
+; Boss: Zul, Reborn
+273365 Dark Revelation --跑开人群
+269936y Fixate on you --justrun：快跑
+273360 Pool of Darkness --stepring：注意踩圈
+273889 Call of Blood --mobsoon：小怪準備
+273288 Thrumming Pulse -defensive：注意減傷(坦) tankheal：注意刷坦(補) 或killmob：小怪快打(DD)
+273451 Congeal Blood --mobkill：擊殺小怪
+273350 Bloodshard --checkhp：注意血量
+276299 Engorged Burst --healall：注意群療
+274168 Locus of Corruption --specialsoon：準備特殊技能
+274358 Rupturing Blood --自訂語音：躲開正面 或 behindboss：到王背後
+274271 Deathwish --mobsoon：小怪準備
+
+
+; Boss: Mythrax the Unraveler
+272146   Annihilation --疊debuff的技能，自訂：注意層數
+273282   Essence Shear --boss前方aoe，躲開正面
+273538   Obliteration Wave --震懾波
+272404   Oblivion Sphere --注意腳下
+272536y   Imminent Ruin on you --跑開人群
+273810   Xalzaix's Awakening --注意分散
+274230   Oblivion's Veil --boss減傷，玩家受到傷害 准备特殊技能
+272115   Obliteration Beam --注意射線
+273949   Visions of Madness --召喚玩家克隆體，快轉火
+
+; Boss: G'huun
+272506y   Explosive Corruption on you --跑開人群
+270287   Blighted Ground --注意腳下
+267509   Thousand Maws --大怪出現
+267427   Torment --快打斷
+267412   Massive Smash --小心擊飛
+267409   Dark Bargain --注意層數
+267462   Decaying Eruption --快打斷
+263482   Reorigination Blast --重組衝擊，自訂：快打小怪
+270447   Growing Corruption --注意刷坦
+270373   Wave of Corruption --注意分散
+263235y   Blood Feast on you --目標是你
+263307   Mind-Numbing Chatter --停止施法
+274582   Malignant Growth --注意脚下
+275160   Gaze of G'huun --快轉身
