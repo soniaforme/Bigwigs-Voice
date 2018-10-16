@@ -8,14 +8,14 @@
 
 ; Boss: Taloc the Corrupted
 271224y Plasma Discharge on you --movesoon：快跑位 或leavecenter：離開中場
-270290 Blood Storm --watchstep：注意腳下
+270290 Blood Storm --runout 快跑开
 271296 Cudgel of Gore --justrun：快跑 或 自訂語音：遠離衝擊
 271728 Retrieve Cudgel --chargemove：衝鋒快躲
 271895 Sanguine Static --carefly：小心擊飛
 271965 Powered Down --phasechange：階段轉換
 275270 Fixate --runout：跑開人群
 275432 Uldir Defensive Beam --watchwave：注意衝擊波
-275189y：快靠邊站
+275189y：runout 跑开人群
 275205y：集合分擔
 
 ; Boss: MOTHER
@@ -25,11 +25,11 @@
 267787 Sundering Scalpel --behindboss：到王背後(DBM新語音) 或 自訂語音：躲開正面
 267795 Purifying Flame --watchstep：注意腳下
 267878 Wind Tunnel --keepmove：保持移動
-268253 Surgical Beam --justrun：快跑 或自訂語音：注意射線
+268253 Surgical Beam --自訂語音：注意射線
 
 ; Boss: Fetid Devourer
 262277 Thrashing Terror --defensive：注意減傷(坦) tankheal：注意刷坦(補) BW沒有針對角色職責分開設置語音
-262292 Rotting Regurgitation --stilldanger：危險危險 或 behindboss：到王背後 或 自訂語音：躲開正面
+262292 Rotting Regurgitation --breathsoon 准备吐息
 262288 Shockwave Stomp --carefly：小心擊飛
 262313 Malodorous Miasma --range5：5碼分散(史詩難度) 
 262314 Putrid Paroxysm --scatter：快分散
@@ -49,9 +49,9 @@
 265662 Corruptor's Pact --fearsoon：恐懼準備 或 helpdispel：幫忙驅散
 
 ; Boss: Vectis
-265178 Evolving Affliction --攻略找不到資訊
+265178 Evolving Affliction --攻略找不到資訊 注意层数
 267242 Contagion --aesoon：AOE準備
-265212y Gestate on you --mobsoon：小怪準備
+265212 Gestate --mobsoon：小怪準備
 265217 Liquefy --runaway：快躲開
 266459 Pathogen Bomb --stepring：注意踩圈
 
@@ -61,23 +61,23 @@
 273360 Pool of Darkness --stepring：注意踩圈
 273889 Call of Blood --mobsoon：小怪準備
 273288 Thrumming Pulse -defensive：注意減傷(坦) tankheal：注意刷坦(補) 或killmob：小怪快打(DD)
-273451 Congeal Blood --mobkill：擊殺小怪
-273350 Bloodshard --checkhp：注意血量
+273451 Congeal Blood --mobkill：擊殺小怪 targetchange 目标改变
+273350 Bloodshard --kickcast 快打断
 276299 Engorged Burst --healall：注意群療
-274168 Locus of Corruption --specialsoon：準備特殊技能
-274358 Rupturing Blood --自訂語音：躲開正面 或 behindboss：到王背後
-274271 Deathwish --mobsoon：小怪準備
+274168 Locus of Corruption --ptwo：二阶段
+274358 Rupturing Blood --注意层数
+274271 Deathwish --准备心控
 
 
 ; Boss: Mythrax the Unraveler
 272146   Annihilation --疊debuff的技能，自訂：注意層數
-273282   Essence Shear --boss前方aoe，躲開正面
-273538   Obliteration Wave --震懾波
-272404   Oblivion Sphere --注意腳下
+273282   Essence Shear --注意层数
+273538   Obliteration Wave --shockwave 震慑波
+272404   Oblivion Sphere --注意分散
 272536y   Imminent Ruin on you --跑開人群
-273810   Xalzaix's Awakening --注意分散
+273810   Xalzaix's Awakening --阶段转换
 274230   Oblivion's Veil --boss減傷，玩家受到傷害 准备特殊技能
-272115   Obliteration Beam --注意射線
+272115   Obliteration Beam --注意脚下
 273949   Visions of Madness --召喚玩家克隆體，快轉火
 
 ; Boss: G'huun
