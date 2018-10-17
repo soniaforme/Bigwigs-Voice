@@ -17,7 +17,7 @@ Zone: Temple of Sethraliss
 263958   A Knot of Snakes 缠绕蛇群 --救命啊 or 快救人
 
 ; Boss: Galvazzt
-266923   Electroshock 充电 --注意层数
+266923   Galvanize 充电 --注意层数
 266512   Consume Charge 放电 --准备aoe
 
 ; Boss: Avatar of Sethraliss
@@ -100,7 +100,7 @@ Zone: Temple of Sethraliss
 255434   Serrated Teeth --快打BOSS
 
 ; Boss: Yazma
-249923y   Soulrend on you --跑開人群
+249923   Soulrend --跑開人群
 250096   Wracking Pain --幫忙驅散
 250050   Echoes of Shadra --注意腳下
 250036   Shadowy Remains --快躲開
@@ -118,9 +118,9 @@ Zone: Temple of Sethraliss
 258323   Infected Wound --幫忙驅散
 258672   Azerite Grenade --快躲開
 257437   Poisoning Strike  注意治疗
-274400y   Duelist Dash on you --離開人群
+274400   Duelist Dash --離開人群
 258777   Sea Spout --快打斷
-272402y   Ricocheting Throw on you --注意分散
+272402   Ricocheting Throw  --注意分散
 257739   Blind Rage 激怒？注意减伤？
 257732   Shattering Bellow --停止施法
 274507   Slippery Suds
@@ -130,8 +130,6 @@ Zone: Temple of Sethraliss
 274555   Scabrous Bite
 258181   Boulder Throw --快躲開
 258199   Ground Shatter --快跑
-257829   Greasy 猪抹了油。。。
-257904   Shell Bounce --注意腳下
 257870   Blade Barrage  快躲开
 257899   Painful Motivation --快打斷
 257908   Oiled Blade --幫忙驅散
@@ -170,13 +168,12 @@ Zone: Temple of Sethraliss
 265540   Rotten Bile --震攝波
 265019   Savage Cleave --震攝波
 265081   War cry --幫忙驅散
-265687   Noxious Poison 注意治疗
-266105   Rampant Growth 快打断
+278961   Decaying Mind  使昏迷并吸收治疗效果10s
 266107   Thirst For Blood --快跑
 265668   Wave of Decay 注意脚下
 272183   Raise Dead --快打斷
 266209   Wicked Frenzy --快打斷
-265487   Shadow Bolt Volley
+265487   Shadow Bolt Volley 暗影箭雨 快打断
 265433   Withering Curse --快打斷
 265523   Summon Spirit Drain Totem --圖騰快打
 272592   Abyssal Reach --快躲開
@@ -203,7 +200,7 @@ Zone: Temple of Sethraliss
 ; Boss: Unbound Abomination
 269301   Putrid Blood 快驱散
 269843   Vile Expulsion --注意衝擊波
-269310y   Cleansing Light on you --集合分攤 或 找人靠近
+269310   Cleansing Light  --集合分攤 或 找人靠近
 
 
 ; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
@@ -211,6 +208,32 @@ Zone: Temple of Sethraliss
 ; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
 
 ; Boss: Trash
+270003	Suppression Slam 震慑波
+270016	Released Inihibitors  激怒?快打断？
+;269936y	Fixate on you (duplicate)
+269976	Ancestral Fury 帮忙驱散
+269972	Shadow Bolt Volley 暗影箭雨 快打断
+269931	Gust Slash 龙卷风 快躲开
+270928y	Bladestorm on you 快躲开
+270920	Seduction 帮忙驱散
+270891	Channel Lightning 快躲开
+270084	Axe Barrage debuff，注意治疗
+270901	Induce Regeneration 快打断
+270931	Darkshot 注意脚下
+270503	Hunting Leap 躲开正面
+270865y	Hidden Blade on you 跑开人群
+270872	Shadow Whirl ？？快躲开？？
+270284	Purification Beam 躲开正面
+271564	Embalming Fluid 快驱散
+271555	Entomb 救命啊
+270492	Hex 帮忙驱散
+270487	Severing Blade 可叠加debuff，注意治疗？
+270482	Blooded Leap 小心击飞
+healing_tide_totem	Healing Tide Totem 快转火
+270499	Frost Shock debuff，快驱散？？
+270507	Poison Barrage 快躲开
+270514	Ground Crush 注意脚下
+271640y	Dark Revelation on you 快跑
 
 ; Boss: The Golden Serpent
 265773y   Spit Gold on you --跑開人群 或 快靠邊站
