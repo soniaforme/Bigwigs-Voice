@@ -85,12 +85,12 @@ Zone: Temple of Sethraliss
 255558   Tainted Blood
 255577   Transfusion --注意踩圈
 255579   Gilded Claws --驅散BOSS
-255582   Molten Gold
-258709   Corrupted Gold
+255582   Molten Gold快驱散
+258709   Corrupted Gold ？？一个debuff
 
 ; Boss: Vol'kaal
 250258   Toxic Leap --快躲開
-259572   Noxious Stench
+259572   Noxious Stench 快打断
 250241   Rapid Decay --2階段準備
 250585   Toxic Pool --快躲開
 
@@ -117,11 +117,11 @@ Zone: Temple of Sethraliss
 257397   Healing Balm --快打斷
 258323   Infected Wound --幫忙驅散
 258672   Azerite Grenade --快躲開
-257437   Poisoning Strike
+257437   Poisoning Strike  注意治疗
 274400y   Duelist Dash on you --離開人群
 258777   Sea Spout --快打斷
 272402y   Ricocheting Throw on you --注意分散
-257739   Blind Rage
+257739   Blind Rage 激怒？注意减伤？
 257732   Shattering Bellow --停止施法
 274507   Slippery Suds
 274383   Rat Traps --注意腳下
@@ -130,9 +130,9 @@ Zone: Temple of Sethraliss
 274555   Scabrous Bite
 258181   Boulder Throw --快躲開
 258199   Ground Shatter --快跑
-257829   Greasy
+257829   Greasy 猪抹了油。。。
 257904   Shell Bounce --注意腳下
-257870   Blade Barrage
+257870   Blade Barrage  快躲开
 257899   Painful Motivation --快打斷
 257908   Oiled Blade --幫忙驅散
 257736   Thundering Squal --快打斷
@@ -156,7 +156,7 @@ Zone: Temple of Sethraliss
 ; Boss: Harlan Sweete
 257278   Swiftwind Saber --注意衝擊波
 257305y   Cannon Barrage on you --快跑
-257316   Avast, ye!
+257316   Avast, ye! 冲锋快躲
 257314y   Black Powder Bomb on you --快跑
 
 
@@ -170,10 +170,10 @@ Zone: Temple of Sethraliss
 265540   Rotten Bile --震攝波
 265019   Savage Cleave --震攝波
 265081   War cry --幫忙驅散
-265687   Noxious Poison
-266105   Rampant Growth
+265687   Noxious Poison 注意治疗
+266105   Rampant Growth 快打断
 266107   Thirst For Blood --快跑
-265668   Wave of Decay
+265668   Wave of Decay 注意脚下
 272183   Raise Dead --快打斷
 266209   Wicked Frenzy --快打斷
 265487   Shadow Bolt Volley
@@ -195,13 +195,13 @@ Zone: Temple of Sethraliss
 
 ; Boss: Sporecaller Zancha
 259732   Festering Harvest --準備特殊技能
-259830   Boundless Rot
+259830   Boundless Rot  注意脚下
 272457   Shockwave --震攝波
 259718y   Upheaval on you --快跑位
 273285   Volatile Pods --注意腳下
 
 ; Boss: Unbound Abomination
-269301   Putrid Blood
+269301   Putrid Blood 快驱散
 269843   Vile Expulsion --注意衝擊波
 269310y   Cleansing Light on you --集合分攤 或 找人靠近
 
@@ -308,65 +308,93 @@ Zone: Temple of Sethraliss
 269366   Repair --準備開火？
 
 ; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
-;    Zone: Waycrest Manor
+;    Zone: Waycrest Manor 庄园
 ; -​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​-​
 
 ; Boss: Trash
-265407	Dinner Bell
-271174	Retch
-264456	Tracking Explosive
-263943	Etch
-263905	Marking Cleave
-264525	Shrapnel Trap
-264520	Severing Serpent
-265759	Splinter Spike
-265760	Thorned Barrage
-265741	Drain Soul Essence
-264050	Infected Thorn
-264038	Uproot
-264556	Tearing Strike
-264150	Shatter
-265352	Toad Blight
-265346	Pallid Glare
-263959	Soul Volley
-263961	Warding Candles
-265368	Spirited Defense
-264396	Spectral Talisman
-264390	Spellbind
-264105y	Runic Mark on you
-265876	Ruinous Volley
-265880y	Dread Mark on you
-265881	Decaying Touch
+265407	Dinner Bell 快打断
+271174	Retch 躲开正面
+264456	Tracking Explosive 注意分散
+263943	Etch 注意治疗
+263905	Marking Cleave 震慑波
+264525	Shrapnel Trap 注意脚下
+264520	Severing Serpent 注意治疗
+265759	Splinter Spike 注意脚下
+265760	Thorned Barrage 注意治疗
+265741	Drain Soul Essence 快打断
+264050	Infected Thorn 注意治疗
+264038	Uproot 注意脚下
+264556	Tearing Strike 注意治疗
+264150	Shatter 死亡时爆炸 危险危险
+265352	Toad Blight 远离小怪？？危险危险
+265346	Pallid Glare？？
+263959	Soul Volley 快打断
+263961	Warding Candles 移动boss
+265368	Spirited Defense 快打断
+264396	Spectral Talisman ？？
+264390	Spellbind 快打断？
+264105y	Runic Mark on you 跑开人群
+265876	Ruinous Volley 快打断
+265880y	Dread Mark on you 跑开人群
+265881	Decaying Touch 注意减伤
 
 ; Boss: Heartsbane Triad
-260741	Jagged Nettles
-260703y	Unstable Runic Mark on you
-260907	Soul Manipulation
-260805	Focusing Iris
-260773	Dire Ritual
+260741	Jagged Nettles 注意治疗
+260703y	Unstable Runic Mark on you 注意分散
+260907	Soul Manipulation 快转火
+260805	Focusing Iris 快打boss
+260773	Dire Ritual 准备aoe
 
 ; Boss: Soulbound Goliath
-260508	Crush
-260512	Soul Harvest
-260551y	Soul Thorns on you
-260541	Burning Brush
-260569	Wildfire
+260508	Crush 注意减伤
+260512	Soul Harvest 移动boss
+260551	Soul Thorns on you 快转火
+260541	Burning Brush 准备aoe
+260569	Wildfire 快躲开
 
 ; Boss: Raal the Gluttonous
-264734	Consume All
-264931	Call Servant
-265002	Consume Servants
-264923	Tenderize
-264694	Rotten Expulsion
+264734	Consume All 准备aoe
+264931	Call Servant 小怪快打
+265002	Consume Servants 激怒？获得buff？
+264923	Tenderize注意脚下
+264694	Rotten Expulsion 注意脚下
 
 ; Boss: Lord and Lady Waycrest
-268306	Discordant Cadenza
-261438	Wasting Strike
-261440y	Virulent Pathogen on you
-261447	Putrid Vitality
+268306	Discordant Cadenza 注意脚下
+261438	Wasting Strike 注意治疗
+261440y	Virulent Pathogen on you 跑开人群
+261447	Putrid Vitality 活力转移 不提示
 
 ; Boss: Gorak Tul
-266181	Dread Essence
-266266	Summon Deathtouched Slaver
-266225	Darkened Lightning
-266198	Alchemical Fire
+266181	Dread Essence 准备aoe
+266266	Summon Deathtouched Slaver小怪快打
+266225	Darkened Lightning 快打断
+266198	Alchemical Fire 准备特别技能
+
+ -------------------------------------
+;    Zone: MOTHERLODE
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Coin-operated Crowd Pummeler
+269493	Footbomb Launcher 准备特别技能
+256493	Blazing Azerite 无
+262347	Static Pulse 小心击飞
+257337	Chocking Claw 躲开正面
+
+; Boss: Tik'ali
+257593	Call Earthrager 准备小怪
+257582y	Raging Gaze on you 目标是你
+271698	Azerite Infusion 击杀小怪
+258622	Resonant Pulse 注意脚下
+
+; Boss: Rixxa Fluxflame
+270042	Agent Azerite注意脚下
+259853	Chemical Burn 快躲开
+260669	Propellant Blast 注意脚下
+
+; Boss: Mogul Razdunk
+260280	Gatling Gun 快跑
+260829y	Homing Missile on you 跑开人群
+271456	Drill Smash 快跑位
