@@ -12,7 +12,6 @@
 271296 Cudgel of Gore --justrun：快跑 或 自訂語音：遠離衝擊
 271728 Retrieve Cudgel --chargemove：衝鋒快躲
 271895 Sanguine Static --carefly：小心擊飛
-271965 Powered Down --phasechange：階段轉換
 275270 Fixate --runout：跑開人群
 275432 Uldir Defensive Beam --watchwave：注意衝擊波
 275189y：runout 跑开人群
@@ -26,10 +25,11 @@
 267795 Purifying Flame --watchstep：注意腳下
 267878 Wind Tunnel --keepmove：保持移動
 268253 Surgical Beam --自訂語音：注意射線
+279662y	Endemic Virus on you 跑开人群
 
 ; Boss: Fetid Devourer
 262277 Thrashing Terror --defensive：注意減傷(坦) tankheal：注意刷坦(補) BW沒有針對角色職責分開設置語音
-262292 Rotting Regurgitation --breathsoon 准备吐息
+breath Rotting Regurgitation --breathsoon 准备吐息
 262288 Shockwave Stomp --carefly：小心擊飛
 262313 Malodorous Miasma --range5：5碼分散(史詩難度) 
 262314 Putrid Paroxysm --scatter：快分散
@@ -46,25 +46,34 @@
 -18397 Anub'ar Voidweaver
 267180 Void Bolt --kickcast：快打斷
 267239 Orb of Corruption --161612：準備接球
-265662 Corruptor's Pact --fearsoon：恐懼準備 或 helpdispel：幫忙驅散
+265662y Corruptor's Pact --获得增益
+265646	Will of the Corruptor 快转火??
 
 ; Boss: Vectis
+265143	Omega Vector 开始点名 不提示
+265127	Lingering Infection 注意层数
 265178 Evolving Affliction --攻略找不到資訊 注意层数
 267242 Contagion --aesoon：AOE準備
 265212 Gestate --mobsoon：小怪準備
+265206	Immunosuppression 免疫力压制 注意治疗
 265217 Liquefy --runaway：快躲開
 266459 Pathogen Bomb --stepring：注意踩圈
+274990	Bursting Lesions 注意分散
 
 ; Boss: Zul, Reborn
-273365 Dark Revelation --跑开人群
+
 269936y Fixate on you --justrun：快跑
+-18530	Minion of Zul
+273365y	Dark Revelation on you 你被点名
 273360 Pool of Darkness --stepring：注意踩圈
 273889 Call of Blood --mobsoon：小怪準備
+crusher	Crusher spawned
+bloodhexer	Blood Hexer spawned
+crawg	Crawg spawned
 273288 Thrumming Pulse -defensive：注意減傷(坦) tankheal：注意刷坦(補) 或killmob：小怪快打(DD)
 273451 Congeal Blood --mobkill：擊殺小怪 targetchange 目标改变
 273350 Bloodshard --kickcast 快打断
 276299 Engorged Burst --healall：注意群療
-274168 Locus of Corruption --ptwo：二阶段
 274358 Rupturing Blood --注意层数
 274271 Deathwish --跑开人群
 
@@ -75,12 +84,19 @@
 273538   Obliteration Wave --shockwave 震慑波
 272404   Oblivion Sphere --注意分散
 272536y   Imminent Ruin on you --跑開人群
+279013	Essence Shatter 无法继续获得珠子
 273810   Xalzaix's Awakening --阶段转换
 274230   Oblivion's Veil --boss減傷，玩家受到傷害 准备特殊技能
 272115   Obliteration Beam --注意脚下
 273949   Visions of Madness --召喚玩家克隆體，快轉火
+276922	Living Weapon 大怪
+279157	Void Echoes  准备aoe
+
 
 ; Boss: G'huun
+
+-18109	Power Matrix 能量矩阵
+263482	Reorigination Blast 准备aoe
 272506y   Explosive Corruption on you --跑開人群
 270287   Blighted Ground --注意腳下
 267509   Thousand Maws --大怪出現
@@ -91,7 +107,9 @@
 263482   Reorigination Blast --重組衝擊，自訂：快打小怪
 270447   Growing Corruption --注意刷坦
 270373   Wave of Corruption --注意分散
-263235y   Blood Feast on you --目標是你
+263235	Blood Feast  集合分担
 263307   Mind-Numbing Chatter --停止施法
 274582   Malignant Growth --注意脚下
 275160   Gaze of G'huun --快轉身
+277007	Bursting Boil 注意宝珠
+268074	Fixate 快跑
