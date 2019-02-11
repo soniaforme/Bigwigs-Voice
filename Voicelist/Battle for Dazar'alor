@@ -1,3 +1,9 @@
+Trash
+289772y  Impale on you
+289937  Thundering Slam
+289917  Bwonsamdi's Pact
+290578  Bwonsamdi's Knife
+
 圣光勇士 Champion of the light
 283573 Sacred Blade 圣洁之刃 注意层数
 283598 Wave of Light 圣光之潮 快躲开
@@ -30,6 +36,7 @@
 284656 Ring of Hostility 敌意之环--阶段转换11111
 282040 Blazing Phoenix 烈焰凤凰 注意群疗
 286396 Dragon's Breath 龙息术 躲开正面
+284374  Magma Trap
 
 Grong Alliance
 282399 Death Knel 末日丧钟 AOE准备
@@ -71,7 +78,7 @@ Opulence
 284424 Scorching Ground 灼烧之地 快躲开
 284493 Pulse-quickening Toxin 脉冲加速毒素 -- 
 284519 Quickened Pulse 加速脉冲 获得增益
-284470 Time Bomb 昏睡妖术 帮忙驱散
+284470 Time Bomb 昏睡妖术 帮忙驱散----Hex of Lethargy(名稱改變ID沒變)
 287070 Hoard Power 储存能量 -- 
 287072y Liquid Gold 液态黄金 快靠边站1111
 287074 Molten Gold 熔化的黄金 快躲开
@@ -80,6 +87,9 @@ Opulence
 285014y Coin Shower On You金币雨 --集合分摊  
 284941 Wail of Greed 贪欲哀鸣 注意群疗
 287037 Coin Sweep 金币横扫 注意减伤
+289383  Chaotic Displacement
+289155  Surging Gold
+
 
 Conclave of the chosen
 282736 Loa's Wrath 神灵的愤怒 --
@@ -142,31 +152,33 @@ Stormwall Blockade
 285118 Sea Swell 海潮汹涌 注意脚下
 285017 Ire of the Deep 深渊之忿 准备接球
 285350y Storm's Wail On You-- 风暴之嚎 --清除地板--快跑位？？
+287995  Electric Shroud
 
 Jaina
 285215 Chilling Touch 寒冰之触 --
 287490 Frozen Solid 冻结 ----冰塊 by EKE --快转火1111
 288038 Marked Target 被标记的目标   
 285725 Set Charge 安放炸药 注意运桶
-285828 Bombard 轰炸 快躲開
 287365 Searing Pitch 灼热焦油 注意腳下
 285253 Ice Shard 寒冰碎片 注意層數？
-287565 Avalanche 雪崩 注意脚下
 287925 Time Warp 时间扭曲 首领加速
 287626 Grasp of Frost 冰霜掌控 ---定身驅散 by EKE--快驱散 
 285177 Freezing Blast 冻结冲击 躲开正面
 285459 Ring of Ice 寒冰之环 靠近火焰
-289861 Howling Winds 尖啸之风 阶段转换？？
 289940 Crystalline Dust 寒晶之尘 躲开正面
 288345 Glacial Ray 冰川射线 躲开正面
 288475 Icefall 陨冰 注意脚下
-288719 Flash Freeze 冰霜速冻 快跑
-289985 Arcane Barrage 奥术弹幕 -- 
 289220 Heart of Frost 冰霜之心 --出人群 by EKE--跑开人群 111
 289219 Frost Nova 冰霜新星 ----定身驅散 by EKE--快驱散111
 290084 Water Bolt Volley 水箭之雨 快打断
 288647 Orb of Frost 冰霜之球 快躲开
-288671 Shattering Lance 碎裂之枪 快躲开
 288747 Prismatic Image 棱彩镜像 快轉火 
-
+285254y  Avalanche on you
+288297  Arctic Ground
+288212y  Broadside on you
+288374y  Siegebreaker Blast on you
+289387  Freezing Blood
+289488  Frozen Siege
+288169  Howling Winds=wɪndz
+-19825 Icebound Image
  
