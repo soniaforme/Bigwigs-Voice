@@ -30,7 +30,7 @@ Trash
 282037 Rising Flames 升腾之焰 注意群疗
 286379 Pyroblast 炎爆术 快打断
 286425 Fire Shield 火焰护盾 护盾快打
-286988y Searing Embers 炽热余烬 帮忙驱散1111
+286988 Searing Embers 炽热余烬 帮忙驱散1111
 284374 Magma Trap 熔岩陷阱 注意踩圈
 285428 Fire from Mist 迷雾之火 快集合
 284656 Ring of Hostility 敌意之环--阶段转换11111
@@ -43,7 +43,7 @@ Grong Alliance
 286450 Necrotic Combo 死疽连击 - 
 285671 Crushed 碾碎 换坦嘲讽
 285875 Rending Bite 撕裂噬咬 注意减伤
-289401 Bestial Throw 蛮兽压掷 注意投掷
+289401y Bestial Throw 蛮兽压掷 跑开人群
 282543 Deathly Slam 致命猛击 快躲开
 285994 Ferocious Roar 凶狠咆哮 快集合
 282471 Voodoo Blast 巫毒轰炸 注意脚下
@@ -78,7 +78,7 @@ Opulence
 284424 Scorching Ground 灼烧之地 快躲开
 284493 Pulse-quickening Toxin 脉冲加速毒素 -- 
 284519 Quickened Pulse 加速脉冲 获得增益
-284470 Time Bomb 昏睡妖术 帮忙驱散----Hex of Lethargy(名稱改變ID沒變)
+284470y Hex of Lethargy on you --停止移動
 287070 Hoard Power 储存能量 -- 
 287072y Liquid Gold 液态黄金 快靠边站1111
 287074 Molten Gold 熔化的黄金 快躲开
@@ -153,6 +153,7 @@ Stormwall Blockade
 285017 Ire of the Deep 深渊之忿 准备接球
 285350y Storm's Wail On You-- 风暴之嚎 --清除地板--快跑位？？
 287995  Electric Shroud
+288696 Catastrophic Tides --滅團技能，提醒也沒卵用--快打断
 
 Jaina
 285215 Chilling Touch 寒冰之触 --
